@@ -1,6 +1,6 @@
 const routers = [
   {
-    path: "/",
+    path: "/reactLiveproject2",
     redirect: "/user/login",
   },
   {
