@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/fonts/verdana-font-family/verdana-bold.ttf"],"names":["module","exports"],"mappings":"8FAAAA,EAAOC,QAAU,IAA0B","file":"static/js/45.a7b681aa.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/verdana-bold.ddbe52e2.ttf\";"],"sourceRoot":""}

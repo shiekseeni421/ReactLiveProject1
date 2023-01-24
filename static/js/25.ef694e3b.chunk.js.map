@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/LiveStreamIcons/ChatIcon.svg"],"names":["module","exports"],"mappings":"8FAAAA,EAAOC,QAAU,IAA0B","file":"static/js/25.ef694e3b.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/ChatIcon.b6dd93a9.svg\";"],"sourceRoot":""}

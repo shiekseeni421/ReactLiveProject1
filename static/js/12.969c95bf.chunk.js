@@ -1,0 +1,2 @@
+(this.webpackJsonpreact_base=this.webpackJsonpreact_base||[]).push([[12],{99:function(t,a,e){"use strict";e.r(a),e.d(a,"axiosInstance",(function(){return s})),e.d(a,"logout",(function(){return c}));var o=e(277),n=e.n(o),r=e(18),s=n.a.create({headers:{}}),c=function(){s.defaults.headers.common.Authorization="",localStorage.clear(),r.history.push("/"),window.location.reload(!0)}}}]);
+//# sourceMappingURL=12.969c95bf.chunk.js.map

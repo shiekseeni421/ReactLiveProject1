@@ -1,0 +1,2 @@
+(this.webpackJsonpreact_base=this.webpackJsonpreact_base||[]).push([[4],{44:function(e,a,t){"use strict";t.r(a);var n=t(0),l=t.n(n),r=t(350);a.default=function(e){var a=e.show,t=e.handleClose,n=e.title,c=e.children;return l.a.createElement(r.a,{show:a,onHide:t},l.a.createElement(r.a.Header,{closeButton:!0},l.a.createElement(r.a.Title,null,n)),l.a.createElement(r.a.Body,null,c))}}}]);
+//# sourceMappingURL=4.758cef58.chunk.js.map

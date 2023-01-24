@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/fonts/arkhip/Arkhip_font.otf"],"names":["module","exports"],"mappings":"8FAAAA,EAAOC,QAAU,IAA0B","file":"static/js/42.378ef9d8.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/Arkhip_font.cbe45c87.otf\";"],"sourceRoot":""}
